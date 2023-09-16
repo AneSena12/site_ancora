@@ -170,7 +170,7 @@
   
   .home-hero {
     color: #fff;
-    background-image: url("/Users/anesm/site_ancora/imgs/90nGa.jpg");
+    background-image: url("imgs/90nGa.jpg");
     background-position: center;
     height: 100vh;
     min-height: 80rem;
@@ -300,7 +300,7 @@
             font-size: 1.7rem; } }
   
   .contact {
-    background-image: url(https://i.stack.imgur.com/90nGa.jpg);
+    background-image: url("imgs/90nGa.jpg");
     background-size: cover;
     background-position: center; }
     .contact__form-container {
